@@ -1,0 +1,101 @@
+body {
+    background-image: linear-gradient(#67F858, #313131);
+}
+.navbar {
+    position: fixed;
+    height: 113px;
+    width: 100%;
+    background-color: #444846;
+    opacity: 60%;
+    left: 0px;
+    top: 0px;
+}
+
+.logo {
+    position: relative;
+    left: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.home {
+position: relative;
+width: 144px;
+height: 54px;
+left: 1091px;
+bottom: 100px;
+
+font-family: 'Inter';
+font-style: italic;
+font-size: 35px;
+
+align-items: center;
+
+}
+
+.profile {
+position: relative;
+width: 144px;
+height: 54px;
+left: 1251px;
+bottom: 190px;
+
+font-family: 'Inter';
+font-style: italic;
+font-size: 35px;
+
+align-items: center;
+}
+
+.content {
+position: relative;
+width:743px;
+height: 607px;
+background: #2B5F19;
+border-radius: 25px;
+left: 389px;
+top:183px;
+}
+
+.form {
+    position: relative;
+    align-content: center;
+    top: 150px;
+    left: 230px;
+    font-size: 2rem;
+    
+}
+
+.h4{
+    position: relative;
+    text-align: center;
+    margin-right: 500px;
+    font-family:'Inter';
+    text-decoration: underline;
+    padding: 10;
+}
+
+.email {
+    padding: 10;
+    position: relative;
+}
+
+.username {
+    position: relative;
+    padding: 10;
+    padding-left: 0;
+}
+.password {
+    position: relative;
+    padding: 10;
+    padding-left: 0;
+}
+
+.submit {
+    position: relative;
+    padding: 10;
+    padding-left: 20;
+    padding-right: 20;
+    left: 100px;
+    margin-top: 20;
+}
